@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello there, I'm Victoria ✌️
+----
+I'm a software engineering student and girl in STEM at [ITSON](https://www.itson.mx/portalinstitucional/) !! <br>
 
-<!--
-**vikvillalba/vikvillalba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ My toolbox: `.java`, `.py`, `.ts`, `.js`, `.html`, `.css`, REST APIs, OOP design patterns and Docker — the arsenal I reach for whenever a project needs saving, or a cool idea sparks and just has to be built.
+  
+- 💻 Currently leveling up in **LLMs**, **cloud computing**, and building **AI automations** that solve real-world problems, fused with clean and fresh UIs.
+  
+- ✨ I like working outside the box, combining tech and art to find the best solution to any problem I put my hands on.
+  
+- ⭐️ A mix of deep thinker and system designer focused on backend, but also a front-end enthusiast — strategist and stylist in equal parts.
+  
+- 📌 I've worked on real projects, gaining hands-on experience with tools like **Next.js**, **React** and **Electron.js**. I've also learned from the teacher's side, teaching Python and mentoring young girls looking to break into STEM.
+  
+- 💬 `ping` me about **backend development**, **LLM/AI integrations**, **cloud computing** or **UI/UX** — always up for sharing ideas.
